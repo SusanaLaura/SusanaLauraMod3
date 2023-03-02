@@ -1,0 +1,1 @@
+//a[contains(@data-test, "main-menu-item-action")]
