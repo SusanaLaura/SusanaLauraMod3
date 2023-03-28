@@ -1,1 +1,1 @@
-div.comparison-card__button> span > a
+//div[@class='comparison-card__button']//a

@@ -1,1 +1,1 @@
-//a[contains(@data-test, "main-menu-item-action")]
+//nav[@class="_mainMenu_259yv wt-col-inline"]//button[text()="Para equipos"]
